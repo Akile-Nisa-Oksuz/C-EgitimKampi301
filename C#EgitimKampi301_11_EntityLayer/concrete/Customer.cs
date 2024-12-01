@@ -14,5 +14,6 @@ namespace C_EgitimKampi301_11_EntityLayer.concrete
         public string CustomerDistrict { get; set; }
         public string CustomerCity {  get; set; }
         public List<Order> Orders { get; set; }
+        public bool CustomerStatus { get; set; }
     }
 }

@@ -8,5 +8,7 @@ namespace C_EgitimKampi301_11_EntityLayer.concrete
 {
     public class Admin
     {
+        public int  AdminId {get;set;}
+
     }
 }
