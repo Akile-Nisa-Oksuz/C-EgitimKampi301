@@ -11,6 +11,7 @@ namespace C_EgitimKampi301_11_EntityLayer.concrete
         public int CategoryId { get; set;}
         public string CategoryName { get; set;}
         public int CategoryStatus { get; set;}
+        public List<Product> Products { get; set;}
 
     }
 
