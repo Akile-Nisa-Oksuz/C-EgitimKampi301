@@ -9,5 +9,6 @@ namespace C_EgitimKampi301_11_DataAccessLayer.Abstrackt
 {
     public interface ICustomerDal:IGenericDal<Customer>
     {
+
     }
 }
